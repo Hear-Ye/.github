@@ -48,7 +48,7 @@ repos:
     - id: debug-statements
     - id: check-added-large-files
       args:
-        - "--maxkb=22500"
+        - "--maxkb=500"
         - "--enforce-all"
     - id: check-symlinks
     - id: debug-statements
